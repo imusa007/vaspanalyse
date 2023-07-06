@@ -33,7 +33,7 @@ setup(
     'numpy==1.18.5',
     'pyparsing==2.4.7',
     'python-dateutil==2.8.1',
-    'scipy==1.4.1',
+    'scipy==1.10.0',
     'six==1.15.0',
     ],
     entry_points={
